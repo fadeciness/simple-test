@@ -8,5 +8,7 @@ public class Main {
 
         System.out.println("The signed commits are not available in Bitbucket and available in GitHub");
         System.out.println("Now: 2020-06-15T16:51:34.304");
+
+        System.out.println("Pushed from Win10");
     }
 }
