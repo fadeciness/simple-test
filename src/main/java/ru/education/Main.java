@@ -11,5 +11,6 @@ public class Main {
 
         System.out.println("Pushed from Win10");
         System.out.println("Repeat signing");
+        System.out.println("Repeat signing 2");
     }
 }
